@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StoneGame", "StoneGame.csproj", "{FB153D71-0C7D-EACB-B6AD-B1D04596823F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StoneGame.Plugins", "StoneGame.Plugins.csproj", "{3B6C2EC0-08D3-028F-7D3C-6CEF65632909}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StoneGame.Editor.Plugins", "StoneGame.Editor.Plugins.csproj", "{9912EB4E-F9B2-3173-95A1-A6DED5440FDC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB153D71-0C7D-EACB-B6AD-B1D04596823F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB153D71-0C7D-EACB-B6AD-B1D04596823F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB153D71-0C7D-EACB-B6AD-B1D04596823F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB153D71-0C7D-EACB-B6AD-B1D04596823F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B6C2EC0-08D3-028F-7D3C-6CEF65632909}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B6C2EC0-08D3-028F-7D3C-6CEF65632909}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B6C2EC0-08D3-028F-7D3C-6CEF65632909}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B6C2EC0-08D3-028F-7D3C-6CEF65632909}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9912EB4E-F9B2-3173-95A1-A6DED5440FDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9912EB4E-F9B2-3173-95A1-A6DED5440FDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9912EB4E-F9B2-3173-95A1-A6DED5440FDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9912EB4E-F9B2-3173-95A1-A6DED5440FDC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
